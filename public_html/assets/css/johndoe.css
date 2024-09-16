@@ -11682,3 +11682,7 @@ pre .code {
   display: block;
   margin-top: 10px;
 }
+.dark-mode {
+  background-color: black;
+  color: white;
+}
